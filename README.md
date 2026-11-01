@@ -5,8 +5,9 @@
 </p>
 
 <!-- ชื่อหัวข้อตรงกลาง -->
-<h1 align="center">Sorawit Sittirak</h1>
-
+<div align="center">
+  <h1>Hi there, I'm Sorawit Sittirak 👋</h1>
+</div>
 <!-- ข้อความย่อยตรงกลาง -->
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Technology_Student-KMITL-black"/>
@@ -33,11 +34,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sorawitsit19&show_icons=true&theme=radical" />
+</div>
 <!--
 **Sorawitsit19/Sorawitsit19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
