@@ -6,7 +6,7 @@
 
 <!-- ชื่อหัวข้อตรงกลาง -->
 <div align="center">
-  <h1>Hi there, I'm Sorawit Sittirak 👋</h1>
+  <h1> I'm Sorawit Sittirak 👋</h1>
 </div>
 <!-- ข้อความย่อยตรงกลาง -->
 <p align="center">
