@@ -10,7 +10,7 @@
 </div>
 <!-- ข้อความย่อยตรงกลาง -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Technology_Student-KMITL"/>
+  <img src="https://img.shields.io/badge/Computer_Technology_Student-KMITL-black"/>
 </p>
 
 <p align="center">
